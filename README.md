@@ -1,6 +1,6 @@
 
 
-![Prometheus + Grafana + Loki + Promtail](https://github.com/webhkp/prometheus-grafana-loki-promtail/graphana-prometheus-loki-promtail.png)
+<img src="./graphana-prometheus-loki-promtail.png" alt="Prometheus + Grafana + Loki + Promtail" />
 
 # Overview
 --------------------
