@@ -4,8 +4,8 @@ global:
 scrape_configs:
   - job_name: 'express-app'
     static_configs:
-      - targets: ['192.168.50.11:3030']
+      - targets: ['<IP_OF_THE_MACHINE>:3030']
 
   - job_name: 'fastapi-app'
     static_configs:
-      - targets: ['192.168.50.11:8888']
+      - targets: ['<IP_OF_THE_MACHINE>:8888']
