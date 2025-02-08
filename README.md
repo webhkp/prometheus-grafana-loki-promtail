@@ -1,6 +1,6 @@
 
 
-<img src="./graphana-prometheus-loki-promtail.png" alt="Prometheus + Grafana + Loki + Promtail" />
+<img src="./graphana-prometheus-loki-promtail.gif" alt="Prometheus + Grafana + Loki + Promtail" />
 
 # Overview
 --------------------
